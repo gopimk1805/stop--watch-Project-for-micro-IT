@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background {
+    background-color: #f2ebfe;
+    min-height: 100vh;
+    font-family: "Roboto";
+}
+
+.head {
+    color: #690cb0;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.timer-text {
+    color: #3e4c59;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.quote-container {
+    background-color: #ffffff;
+    border: 1px solid #9aa5b1;
+    border-radius: 8px;
+}
+
+.quote-text {
+    color: #323f4b;
+    font-size: 18px;
+}
+
+.result-text {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.clock-image {
+    width: 40px;
+    height: 40px;
+}
